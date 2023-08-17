@@ -65,6 +65,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or inquiries, feel free to contact me:
-
 Name: Ankit Kumar
 Email: <b>ankitkumar1990asap@gmail.com</b>
