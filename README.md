@@ -55,15 +55,15 @@ Before you begin, ensure you have the following:
 Contributions are welcome! If you find any issues or want to enhance the application, feel free to open a pull request.
 
 1. Fork the repository.
-2. Create a new branch: 'git checkout -b feature/your-feature-name'.
-3. Make your changes and commit them: 'git commit -m "Add your feature"'.
-4. Push to the branch: 'git push origin feature/your-feature-name'.
+2. Create a new branch: ```git checkout -b feature/your-feature-name```.
+3. Make your changes and commit them: ```git commit -m "Add your feature"```.
+4. Push to the branch: ```git push origin feature/your-feature-name```.
 5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 For any questions or inquiries, feel free to contact me:
 
 Name: Ankit Kumar
