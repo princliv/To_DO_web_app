@@ -64,6 +64,6 @@ Contributions are welcome! If you find any issues or want to enhance the applica
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or inquiries, feel free to contact me:
-Name: Ankit Kumar
+For any questions or inquiries, feel free to contact me:<br>
+Name: Ankit Kumar<br>
 Email: <b>ankitkumar1990asap@gmail.com</b>
